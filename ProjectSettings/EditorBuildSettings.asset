@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/json tea.unity
+    guid: 227860bd4c2b7ab47852e67c86a2d5a4
+  - enabled: 1
+    path: Assets/Cadastro/Scene/Cadastrar.unity
+    guid: c0c50fc3f0c44cd47aaa6ddaff534f31
+  - enabled: 1
+    path: Assets/Deletar/Scene/Deletar.unity
+    guid: 2c398327a6f53cc41aa35eee05791e1a
+  - enabled: 1
+    path: Assets/Editar/scene/Editar.unity
+    guid: ef20073057f4eb642a261ee80efda460
